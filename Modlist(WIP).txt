@@ -2,37 +2,34 @@ Modlist(WIP)(仅列出主干，前置Mod并未列出)
 
 1.休闲类/建筑类
 
-Agricraft                              //农业
-Bamboo                               //竹
-Chisel                                   //凿子
+Agricraft                               //农业
+Bamboo                                  //竹
+Chisel                                  //凿子
 
 2.科技类
 
-Buildcraft(With Compat)     //建筑
-Forestry                                 //林业
-Thermal Expansion               //热力膨胀
-Big Reactors                          //大型反应堆
-Immersive Engineering        //沉浸工艺
-Applied Energetics 2            //应用能源
+Buildcraft(With Compat)                 //建筑
+Forestry                                //林业
+Thermal Expansion                       //热力膨胀
+Big Reactors                            //大型反应堆
+Immersive Engineering                   //沉浸工艺
+Applied Energetics 2                    //应用能源
  
 3.魔法类
-Thaumcraft4（Any Other Addons?） //神秘时代
-Thaumic Tinkerer                                //神秘工匠
-Thaumic Energetics                            //神秘能源
+Thaumcraft4（Any Other Addons?）         //神秘时代
+Thaumic Tinkerer                         //神秘工匠
+Thaumic Energetics                       //神秘能源
 
 4.辅助/功能
-MineTweaker3                                   //魔改前置
-ModTweaker2                                   //魔改
-Not Enough Item                              //NEI
-Waila                                                 //信息显示
-Journeymap                                      //旅行地图
-Veinminer                                         //矿脉矿工
+MineTweaker3                             //魔改前置
+ModTweaker2                              //魔改
+Not Enough Item                          //NEI
+Waila                                    //信息显示
+Journeymap                               //旅行地图
+Veinminer                                //矿脉矿工
 
 5.肝帝类
-Avaritia                                            //无尽贪婪，魔改用
-
-
-
+Avaritia                                 //无尽贪婪，魔改用
 
 想来还是不加TiC和IC2了。前者卡科技线，修改了原版挖掘等级，后者烂大街。
 
