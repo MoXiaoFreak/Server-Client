@@ -16,7 +16,7 @@ Immersive Engineering                   //沉浸工艺
 Applied Energetics 2                    //应用能源
  
 3.魔法类
-Thaumcraft4（Any Other Addons?）         //神秘时代
+Thaumcraft4(Any Other Addons?)           //神秘时代
 Thaumic Tinkerer                         //神秘工匠
 Thaumic Energetics                       //神秘能源
 
